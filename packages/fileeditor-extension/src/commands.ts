@@ -398,7 +398,7 @@ export namespace Commands {
         return getCreateConsoleFunction(commands)(widget, args);
       },
       isEnabled,
-      label: 'Create Console for Editor'
+      label: 'Create Console for Editor:'
     });
   }
 
